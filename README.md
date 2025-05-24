@@ -3,8 +3,9 @@
 > The ultra-fast, minimalist note-taking desktop app with AI. 100% open-source, local-first, privacy-respecting. Built to make thinking *feel* better.
 
 ---
-
-![QuickNote.ink logo](https://gist.githack.com/przybylku/536f255b6e58031c7685cf416c7b9688/raw/5d7f40b9dee84af0f5f50e4429af69b97c4283ab/quicknotes.ink)
+<div align=center>
+<img width="500px" src="./assets/svgs/quicknotes_logo.svg" alt="QuickNotes.ink logo svg">
+</div>
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/przybylku/quicknote.ink/ci.yml?branch=main)](https://github.com/przybylku/quicknote.ink/actions)
 [![License](https://img.shields.io/github/license/przybylku/quicknote.ink)](LICENSE)
