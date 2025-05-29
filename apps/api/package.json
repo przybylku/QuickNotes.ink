@@ -1,0 +1,20 @@
+{
+  "name": "api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "QuickNotes Go API Server",
+  "scripts": {
+    "dev": "go run main.go",
+    "build": "go build -o dist/api main.go",
+    "start": "./dist/api",
+    "test": "go test ./...",
+    "clean": "rm -rf dist/",
+    "lint": "golangci-lint run",
+    "format": "go fmt ./...",
+    "tauri:linux": "go run main.go"
+  },
+  "keywords": ["golang", "api", "notes", "rest"],
+  "engines": {
+    "go": ">=1.21"
+  }
+} 
